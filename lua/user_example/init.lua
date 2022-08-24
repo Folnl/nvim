@@ -18,7 +18,7 @@ local config = {
   },
 
   -- Set colorscheme
-  colorscheme = "default_theme",
+  colorscheme = "one",
 
   -- Override highlight groups in any theme
   highlights = {
